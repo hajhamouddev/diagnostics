@@ -1,0 +1,6 @@
+# Ignored test artifacts
+logs/*.log
+inbox/*
+!inbox/.gitkeep
+reports/*.tmp
+.DS_Store
